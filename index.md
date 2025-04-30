@@ -5,8 +5,7 @@
     <link rel="stylesheet" href="/live2d/css/live2d.css" />
 </head>
 <body>
-	<h1>未完工</h1>
-	<a href="http://106.75.240.191/">博客已部署至服务器，点此访问</a>
+	<h1>个人用CDN</h1>
     <div id="landlord">
     <div class="message" style="opacity:0"></div>
     <canvas id="live2d" width="280" height="250" class="live2d"></canvas>
